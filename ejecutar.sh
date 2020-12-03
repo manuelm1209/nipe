@@ -1,5 +1,6 @@
 #!/bin/bash
 USUARIO="nombre de usuario"
+# DIRECTORIO se debe modificar si la ubicación no es esta.
 DIRECTORIO="/home/${USUARIO}/Documents/Tools/nipe/"
 #Confirmamos que el archivo nipe.pl se encuentre en el directorio: "~/Documents/Tools/nipe".
 test_nipe(){
